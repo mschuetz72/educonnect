@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "firebase-functions": "^4.7.0",
+    "request-promise": "^4.2.6"
+  }
+}
